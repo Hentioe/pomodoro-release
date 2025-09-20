@@ -4,9 +4,24 @@
 
 ## 更新日志
 
+- [2025-09-21: v0.1.0-dev4 发布](#v010-dev4)
 - [2025-09-16: v0.1.0-dev3 发布](#v010-dev3)
 - [2025-09-16: v0.1.0-dev2 发布](#v010-dev2)
 - [2025-09-16: v0.1.0-dev1 发布](#v010-dev1)
+
+### v0.1.0-dev4
+
+公开介绍的第一个版本，更新如下：
+
+- 内置更多免费音效
+- 支持切换滴答音效
+- 支持调整声音音量
+- 提高功能的完整性
+
+更多详情见博客：
+
+- [入门番茄工作法](https://blog.hentioe.dev/posts/introduction-to-the-pomodoro-technique.html)
+- [番茄钟：本地客户端应用前景的强大展现力](https://blog.hentioe.dev/posts/pomodoro-clock-local-client-application-prospects.html)
 
 ### v0.1.0-dev3
 
