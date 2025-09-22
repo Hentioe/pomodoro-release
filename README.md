@@ -14,6 +14,10 @@
 
 修复了没有默认滴答音的问题。增大了滑动组件（用于调整音量）的可交互范围。更新了一些链接和文字。
 
+更多详情见博客：
+
+- [番茄钟：Tauri 跨端应用开发前景的强大展现力](https://blog.hentioe.dev/posts/pomodoro-clock-tauri-application-prospects.html)
+
 ### v0.1.0-dev4
 
 公开介绍的第一个版本，更新如下：
@@ -26,7 +30,7 @@
 更多详情见博客：
 
 - [入门番茄工作法](https://blog.hentioe.dev/posts/introduction-to-the-pomodoro-technique.html)
-- [番茄钟：本地客户端应用前景的强大展现力](https://blog.hentioe.dev/posts/pomodoro-clock-local-client-application-prospects.html)
+- ~~[番茄钟：本地客户端应用前景的强大展现力](https://blog.hentioe.dev/posts/pomodoro-clock-local-client-application-prospects.html)~~（链接已过时）
 
 ### v0.1.0-dev3
 
